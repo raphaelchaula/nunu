@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045632197254",
+    "firebase_url": "https://nunu-61fa0.firebaseio.com",
+    "project_id": "nunu-61fa0",
+    "storage_bucket": "nunu-61fa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045632197254:android:7c0323572b628238476707",
+        "android_client_info": {
+          "package_name": "com.example.nunu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045632197254-ncq4t0ab9r6suettp91udhbgcglmcnr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7VSrPCH8JVcFSemSKc355-3nPnxUNd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045632197254-ncq4t0ab9r6suettp91udhbgcglmcnr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
